@@ -18,13 +18,10 @@ In order to setup, maven4 and jdk8 are required.
  
 
 ## Usage
-There are three choses;
-
- 1. Players enter the cell number like as "3,4"
+Players enter the cell number like as "3,4"
 
 ## Structure
-
-1. There are three abstract components;
+There are three abstract components;
    
    -- Game, Player, Board
    
